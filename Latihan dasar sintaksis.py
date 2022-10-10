@@ -24,3 +24,6 @@ if egg_number_count > 0:
 
 else:
     print("Jack will buy only 1 bottle of milk")
+
+print("Jack back to his house")
+print("Jack gives the milk to his mom")
