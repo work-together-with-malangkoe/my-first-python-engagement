@@ -1,2 +1,3 @@
 Leader: Faisal
-Staff: Hiring
+Staff 1: Done
+Staff 2: Hiring
