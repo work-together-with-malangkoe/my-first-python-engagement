@@ -1,5 +1,5 @@
 """
-Program perulangan membaca buku dengan WHILE
+Program perulangan membaca buku dengan "WHILE"
 """
 jumlah_buku = 10
 print('Ibu berkata, "baca semua bukumu"')
